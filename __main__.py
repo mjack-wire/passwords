@@ -106,7 +106,6 @@ while active == 1:
 			input("")
 		elif command == "5":
 			print("\x1b[2J\x1b[0;0H  ____                                     _     \n |  _ \\ __ _ ___ _____      _____  _ __ __| |___ \n | |_) / _` / __/ __\\ \\ /\\ / / _ \\| '__/ _` / __|\n |  __/ (_| \\__ \\__ \\\\ V  V / (_) | | | (_| \\__ \\\n |_|   \\__,_|___/___/ \\_/\\_/ \\___/|_|  \\__,_|___/\n")
-			print(" | Change Master Password |\n Notice: Changing master password will effect\n stored passwords as they are encrypted using your master password. ")
 			
 			currentPassword = input(" Current Password\n > \x1b[30m")
 			print("\x1b[0m")
