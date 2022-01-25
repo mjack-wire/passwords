@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  Password Manager
+#  Password
 #  
 #  Copyright 2022 Michael Jack <michael@michael-stream>
 #  
