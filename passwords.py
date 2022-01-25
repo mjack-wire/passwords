@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  Passwords File
+#  Passwords
 #  
 #  Copyright 2022 Michael Jack <michael@michael-stream>
 #  
